@@ -1,1 +1,0 @@
-"""TERRATREND scientific analysis package."""
